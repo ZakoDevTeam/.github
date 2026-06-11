@@ -1,5 +1,5 @@
 # Hi There
-**ZakoDevTeam** is a developer-driven GitHub organization
+**ZakoDevTeam** is a developer-driven organization
 
 ---
 
@@ -23,7 +23,7 @@ Some repositories may be experiments, some may be stable, and some may simply ex
 
 ## 📦 Projects
 
-ZakoFrp
+NekoLink
 
 PickUpAPI
 
